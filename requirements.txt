@@ -1,0 +1,7 @@
+detect-secrets
+coverage
+flake8
+myst-parser
+pre-commit
+pytest
+Sphinx
